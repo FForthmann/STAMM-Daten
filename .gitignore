@@ -384,3 +384,4 @@ public/
 .github
 .vagrant
 !/userfrosting/.github/
+!/.idea/userfrosting.iml
